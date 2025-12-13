@@ -70,7 +70,7 @@ The project highlights expertise in **Power BI, DAX, Power Query, and data story
 ---
 ## 📊 Dashboard Preview
 
-![Madhav Ecommerce Sales Dashboard](dashboard.png)
+![Madhav Ecommerce Sales Dashboard](DASHBOARD.png)
 
 ---
 ## 🔮 Future Enhancements
